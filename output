@@ -1,0 +1,37 @@
+--- Task 1: Profile Cleaning ---
+Ayesha Sharma: Valid name
+Rohit Verma: Valid name
+Priya Nair: Valid name
+Karan Mehta: Valid name
+Sneha Pillai: Valid name
+------------------------------
+Student : Sneha Pillai
+Roll No : 105
+Marks : [75, 80, 70, 68, 85]
+------------------------------
+
+--- Task 2: Marks Analysis ---
+Math: 88 -> Grade: A
+Physics: 72 -> Grade: B
+CS: 95 -> Grade: A+
+English: 60 -> Grade: C
+Chemistry: 78 -> Grade: B
+Total Marks: 393
+Average Marks: 78.6
+Highest: CS (95)
+Lowest: English (60)
+Name            | Average  | Status
+-----------------------------------
+Sneha Pillai    | 75.6     |Pass
+-----------------------------------
+Students Passed: 1, Failed: 0
+Class Topper: Sneha Pillai with 75.6
+Class Average: 75.6
+1. Stripped: 'python is a versatile language. it supports object oriented, functional, and procedural programming. python is widely used in data science and machine learning.'
+2. Title Case: Python Is A Versatile Language. It Supports Object Oriented, Functional, And Procedural Programming. Python Is Widely Used In Data Science And Machine Learning.
+3. 'python' count: 2
+4. Replaced: Python is a versatile language. it supports object oriented, functional, and procedural programming. Python is widely used in data science and machine learning.
+5/6. Sentences:
+1. python is a versatile language.
+2. it supports object oriented, functional, and procedural programming.
+3. python is widely used in data science and machine learning.
